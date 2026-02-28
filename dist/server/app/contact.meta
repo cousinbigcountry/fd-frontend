@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(client-facing)/layout,_N_T_/(client-facing)/contact/layout,_N_T_/(client-facing)/contact/page,_N_T_/contact"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KGNsaWVudC1mYWNpbmcp/contact/__PAGE__",
+    "/!KGNsaWVudC1mYWNpbmcp/contact",
+    "/!KGNsaWVudC1mYWNpbmcp",
+    "/_index",
+    "/_head"
+  ]
+}

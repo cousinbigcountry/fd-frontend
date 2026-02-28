@@ -9,5 +9,5 @@ export async function getBasicAuthHeader() {
 }
 
 export function getSpringBaseUrl() {
-    return process.env.INTERNAL_API_BASE_URL ?? "http://localhost:8080";
+    return process.env.INTERNAL_API_BASE_URL ?? "http://18.219.129.190:8080";
 }

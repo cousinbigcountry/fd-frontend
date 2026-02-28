@@ -1,0 +1,3 @@
+{
+  "/(client-facing)/page": "app/(client-facing)/page.js"
+}
